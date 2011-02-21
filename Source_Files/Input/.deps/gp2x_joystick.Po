@@ -1,0 +1,219 @@
+gp2x_joystick.o gp2x_joystick.o: gp2x_joystick.cpp gp2x_joystick.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/fcntl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/features.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/fcntl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/stat.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stat.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/fb.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/pthread.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sched.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/xlocale.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/signal.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/initspin.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigthread.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/signum.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/siginfo.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigaction.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigcontext.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/sigcontext.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigstack.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/ucontext.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/procfs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/user.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdlib.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitflags.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitstatus.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/alloca.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/libio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/_G_config.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/wchar.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wchar.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gconv.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stdarg.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sys_errlist.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/string.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/mman.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/mman.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/ioctl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctls.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctls.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctl-types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/ttydefaults.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/soundcard.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/soundcard.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/ioctl.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/patchkey.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/unistd.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix_opt.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/environments.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/confname.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/getopt.h
+
+gp2x_joystick.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/fcntl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/features.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/fcntl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/stat.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stat.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/fb.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/pthread.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sched.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/xlocale.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/signal.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/initspin.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigthread.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/signum.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/siginfo.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigaction.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigcontext.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/sigcontext.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigstack.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/ucontext.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/procfs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/user.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdlib.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitflags.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitstatus.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/alloca.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/libio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/_G_config.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/wchar.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wchar.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gconv.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stdarg.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sys_errlist.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/string.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/mman.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/mman.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/ioctl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctls.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctls.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/ioctl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/ioctl-types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/ttydefaults.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/soundcard.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/soundcard.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/ioctl.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/patchkey.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/unistd.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix_opt.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/environments.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/confname.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/getopt.h:

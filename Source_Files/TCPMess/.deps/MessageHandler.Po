@@ -1,0 +1,63 @@
+MessageHandler.o: MessageHandler.cpp MessageHandler.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h
+
+MessageHandler.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h:

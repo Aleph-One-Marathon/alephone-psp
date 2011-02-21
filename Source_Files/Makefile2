@@ -1,0 +1,21 @@
+PSPSDK = $(shell psp-config --pspsdk-path)
+PSPLIBSDIR = $(PSPSDK)/..
+TARGET = alephone
+OBJS = shell.o
+
+#LIBS = -lpspvfpu -lm -lstdc++ -lpsppower -lpsprtc -lpspaudio -lpng
+LIBS =  -LC:/cygwin/usr/local/pspdev/psp/lib -lSDL -lSDL_image -lm -lGL -lpspvfpu -lSDL_net -LC:/cygwin/usr/local/pspdev/psp/sdk/lib -lc -lstdc++ -lpspdebug -lpspgu -lpspctrl -lpspge -lpspdisplay -lpsphprm -lpspsdk -lpsprtc -lpspaudio -lpspuser -lpsputility -lpspkernel -lpspwlan -lpspnet -lpspnet_apctl -lpspnet_inet -lpspnet_resolver
+
+CFLAGS = -O2 -G0 -Wall
+CFLAGS += -DSDL -Dpsp
+CXXFLAGS = $(CFLAGS) -fno-exceptions
+ 
+ASFLAGS = $(CFLAGS)
+PSPBIN = $(PSPSDK)/../bin
+
+EXTRA_TARGETS = EBOOT.PBP
+PSP_EBOOT_TITLE = Marathon 2: Durandal
+PSP_EBOOT_ICON	= PSPics/PIC0.png
+PSP_EBOOT_PIC1	= PSPics/PIC1.png
+
+include $(PSPSDK)/lib/build.mak

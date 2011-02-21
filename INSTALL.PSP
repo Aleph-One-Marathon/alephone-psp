@@ -1,0 +1,58 @@
+Aleph One/SDL PSP Installation Instructions
+============================================
+
+As implied by its name, Aleph One/SDL requires the Simple DirectMedia Layer
+(SDL) library, available from the official SDL site:
+
+  http://www.libsdl.org/
+
+You also have to install the "SDL_image" and "SDL_net" libraries which can be
+found here:
+
+  http://www.libsdl.org/projects/SDL_image/
+  http://www.libsdl.org/projects/SDL_net/
+
+Support for Lua scripting, which may be required by some scenarios, requires
+you to have Lua installed. The source is available from the official Lua site:
+
+  http://www.lua.org
+
+
+Installing the program
+----------------------
+
+Cd into the "Source_Files" directory and run the following command:
+
+ $ ./compile.sh compile
+
+If the compilation process was successful you should find two new directories
+under the "Source_Files" directory: "__SCE__alephone" and "%__SCE__alephone".
+
+To install copy those directories to "/PSP/GAME150" (or "/PSP/GAME" in a 1.50
+kernel) on the root of your PSP memory stick.
+
+The compilation script automatically attempts to do this for you, trying
+to detect any connected PSP and copying the required files in
+"/PSP/GAME150".
+
+
+Installing the data files
+-------------------------
+
+To play Aleph One, you will also need Marathon graphics, sound and map
+files. Unfortunately, Bungie has not released these files to the public, so
+you must own a copy of Marathon 2 or Marathon Infinity (Marathon 1 data
+files don't work with Aleph One). For your convenience, I've created an
+archive containing the data files from the freely available Marathon
+Infinity Demo, converted to the formats needed by the SDL version of Aleph
+One, which can be downloaded from my Aleph One/SDL page:
+
+  http://www.uni-mainz.de/~bauec002/A1Main.html
+
+The archive contains the files "Images", "Map", "Shapes", "Sounds" and
+"README" and has to be unpacked to
+
+  /PSP/GAME150/__SCE__alephone  (or /PSP/GAME/__SCE__alephone on 1.50 kernels)
+
+Marathon 1 data files doesn't seem to work with the current PSP port.
+

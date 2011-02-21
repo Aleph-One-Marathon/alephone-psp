@@ -1,0 +1,346 @@
+gp2x_joystick.o gp2x_joystick.o: gp2x_joystick.cpp \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/features.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/libio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/_G_config.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/wchar.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/wchar.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/gconv.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stdarg.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sys_errlist.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/xlocale.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/string \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++config.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/os_defines.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stringfwd.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/char_traits.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstring \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstddef \
+  c:\devkitgp2x\bin\../sysroot/usr/include/string.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_algobase.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/climits \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/limits.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/syslimits.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/limits.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix1_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/local_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/limits.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix2_lim.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/xopen_lim.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstdlib \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdlib.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitflags.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitstatus.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/alloca.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/iosfwd \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++locale.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/clocale \
+  c:\devkitgp2x\bin\../sysroot/usr/include/locale.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/locale.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstdio \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++io.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/gthr.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/gthr-default.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/pthread.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/sched.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/signal.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/initspin.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigthread.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/unistd.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix_opt.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/environments.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/confname.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/getopt.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cctype \
+  c:\devkitgp2x\bin\../sysroot/usr/include/ctype.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/postypes.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cwchar \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/ctime \
+  c:\devkitgp2x\bin\../sysroot/usr/include/stdint.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/functexcept.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/exception_defines.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_pair.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/cpp_type_traits.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_iterator_base_types.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_iterator_base_funcs.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/concept_check.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_iterator.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/debug/debug.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cassert \
+  c:\devkitgp2x\bin\../sysroot/usr/include/assert.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/memory \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/allocator.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++allocator.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/ext/new_allocator.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/new \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/exception \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_construct.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_uninitialized.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_raw_storage_iter.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/limits \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_function.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/basic_string.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/atomicity.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/atomic_word.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/algorithm \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_algo.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_heap.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_tempbuf.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/basic_string.tcc \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/vector \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_vector.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_bvector.h \
+  c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/vector.tcc \
+  c:\devkitgp2x\bin\../sysroot/usr/include/errno.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/bits/errno.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/linux/errno.h \
+  c:\devkitgp2x\bin\../sysroot/usr/include/asm/errno.h \
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/features.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/cdefs.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gnu/stubs.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stddef.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wordsize.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/typesizes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/libio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/_G_config.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/wchar.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/wchar.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/gconv.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/stdarg.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sys_errlist.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/stdio.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/time.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/xlocale.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/string:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++config.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/os_defines.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stringfwd.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/char_traits.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstring:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstddef:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/string.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_algobase.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/climits:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/limits.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/include/syslimits.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/limits.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix1_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/local_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/limits.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix2_lim.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/xopen_lim.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstdlib:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdlib.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitflags.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/waitstatus.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/endian.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/types.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/select.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigset.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sys/sysmacros.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/pthreadtypes.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sched.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/alloca.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/iosfwd:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++locale.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/clocale:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/locale.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/locale.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cstdio:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++io.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/gthr.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/gthr-default.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/pthread.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/sched.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/signal.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/initspin.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/sigthread.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/unistd.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/posix_opt.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/environments.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/confname.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/getopt.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cctype:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/ctype.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/postypes.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cwchar:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/ctime:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/stdint.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/functexcept.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/exception_defines.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_pair.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/cpp_type_traits.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_iterator_base_types.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_iterator_base_funcs.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/concept_check.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_iterator.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/debug/debug.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/cassert:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/assert.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/memory:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/allocator.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/c++allocator.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/ext/new_allocator.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/new:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/exception:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_construct.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_uninitialized.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_raw_storage_iter.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/limits:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_function.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/basic_string.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/atomicity.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/arm-linux/bits/atomic_word.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/algorithm:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_algo.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_heap.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_tempbuf.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/basic_string.tcc:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/vector:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_vector.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/stl_bvector.h:
+
+c:\devkitgp2x\bin\../lib/gcc/arm-linux/4.0.2/../../../../include/c++/4.0.2/bits/vector.tcc:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/errno.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/bits/errno.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/linux/errno.h:
+
+c:\devkitgp2x\bin\../sysroot/usr/include/asm/errno.h:
