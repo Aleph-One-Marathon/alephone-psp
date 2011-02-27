@@ -1,0 +1,86 @@
+liolib.o: liolib.c \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/errno.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/errno.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stdarg.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stdio.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h \
+  lua.h luaconf.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include-fixed/limits.h lauxlib.h \
+  lualib.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/errno.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/errno.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stdarg.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stdio.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h:
+
+lua.h:
+
+luaconf.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include-fixed/limits.h:
+
+lauxlib.h:
+
+lualib.h:

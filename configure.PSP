@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Disable profiling by default
+PROFILING=""
+ 
+if [ "$1" = "-help" ]; then
+ SCRIPT_PATH=$(basename $0)
+ echo "Usage: ./$SCRIPT_PATH [-normal | -profiling]"
+ exit -1
+elif [ "$1" = "-normal" -o -z "$1" ]; then
+ PROFILING=""
+ echo "*** Configuring ***"
+elif [ "$1" = "-profiling" ]; then
+ PROFILING="--enable-pspgprof"
+ echo "*** Configuring for profiling ***"
+else
+ echo "Unrecognized option: $1"
+ exit -1
+fi
+
+./configure --host psp --prefix=$(psp-config --psp-prefix) --disable-speex --disable-alsa --disable-opengl $PROFILING
+

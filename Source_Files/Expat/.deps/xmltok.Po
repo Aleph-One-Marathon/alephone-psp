@@ -1,0 +1,29 @@
+xmltok.o: xmltok.c /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  expat_external.h internal.h xmltok.h nametab.h xmltok_impl.h ascii.h \
+  xmltok_impl.c asciitab.h utf8tab.h iasciitab.h latin1tab.h xmltok_ns.c
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+expat_external.h:
+
+internal.h:
+
+xmltok.h:
+
+nametab.h:
+
+xmltok_impl.h:
+
+ascii.h:
+
+xmltok_impl.c:
+
+asciitab.h:
+
+utf8tab.h:
+
+iasciitab.h:
+
+latin1tab.h:
+
+xmltok_ns.c:

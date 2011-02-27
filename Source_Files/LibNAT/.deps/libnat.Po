@@ -1,0 +1,5 @@
+libnat.o: libnat.c libnat.h error.h
+
+libnat.h:
+
+error.h:

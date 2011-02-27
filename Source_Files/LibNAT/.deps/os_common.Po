@@ -1,0 +1,119 @@
+os_common.o: os_common.c \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/errno.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/errno.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h os_common.h os.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/fcntl.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/fcntl.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_default_fcntl.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stat.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/time.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/time.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/socket.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdint.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/select.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/fd_set.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/time.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/netinet/in.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/arpa/inet.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/netdb.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/unistd.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/unistd.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h \
+  error.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/errno.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/errno.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+os_common.h:
+
+os.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/fcntl.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/fcntl.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_default_fcntl.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stat.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/time.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/time.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/socket.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdint.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/select.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/fd_set.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/time.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/netinet/in.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/arpa/inet.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/netdb.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/unistd.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/unistd.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h:
+
+error.h:

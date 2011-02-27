@@ -1,0 +1,109 @@
+thread_priority_sdl_posix.o: thread_priority_sdl_posix.cpp \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h \
+  thread_priority_sdl.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_thread.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_main.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_mutex.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/begin_code.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/close_code.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/pthread.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/unistd.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/unistd.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sched.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/sched.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/time.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h:
+
+thread_priority_sdl.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_thread.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_main.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/SDL_mutex.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/begin_code.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/SDL/close_code.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/pthread.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/unistd.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/unistd.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sched.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/sched.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/time.h:

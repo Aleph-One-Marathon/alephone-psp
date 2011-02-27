@@ -1,0 +1,14 @@
+xmlrole.o: xmlrole.c /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  expat_external.h internal.h xmlrole.h xmltok.h ascii.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+expat_external.h:
+
+internal.h:
+
+xmlrole.h:
+
+xmltok.h:
+
+ascii.h:

@@ -1,0 +1,21 @@
+utility.o: utility.c \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/ctype.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  utility.h error.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/ctype.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+utility.h:
+
+error.h:

@@ -1,0 +1,169 @@
+psp_sdl_profilermg.o: psp_sdl_profilermg.cpp \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdio \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stdarg.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stdio.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstring \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h \
+  psp_sdl_profilermg.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/vector \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_algobase.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/functexcept.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/exception_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/cpp_type_traits.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/type_traits.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/numeric_traits.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_pair.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_move.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/concept_check.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_iterator_base_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_iterator_base_funcs.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_iterator.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/debug/debug.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/allocator.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++allocator.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/new_allocator.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/new \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/exception \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_construct.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_uninitialized.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_vector.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_bvector.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/vector.tcc \
+  psp_sdl_profiler.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdio:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stdarg.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stdio.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstring:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h:
+
+psp_sdl_profilermg.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/vector:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_algobase.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/functexcept.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/exception_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/cpp_type_traits.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/type_traits.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/numeric_traits.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_pair.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_move.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/concept_check.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_iterator_base_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_iterator_base_funcs.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_iterator.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/debug/debug.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/allocator.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++allocator.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/new_allocator.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/new:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/exception:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_construct.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_uninitialized.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_vector.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/stl_bvector.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/vector.tcc:
+
+psp_sdl_profiler.h:

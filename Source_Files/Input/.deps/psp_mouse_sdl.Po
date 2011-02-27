@@ -1,0 +1,180 @@
+psp_mouse_sdl.o: psp_mouse_sdl.cpp \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h \
+  /usr/local/pspdev/psp/sdk/include/pspctrl.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdio \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/include/stdarg.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stdio.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstring \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cmath \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/cpp_type_traits.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/type_traits.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/math.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/cmath.tcc \
+  /usr/local/pspdev/psp/include/SDL/SDL.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_main.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_types.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_getenv.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_error.h \
+  /usr/local/pspdev/psp/include/SDL/begin_code.h \
+  /usr/local/pspdev/psp/include/SDL/close_code.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_rwops.h \
+  /usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_timer.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_audio.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_byteorder.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_cdrom.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_joystick.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_events.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_active.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_keyboard.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_keysym.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_mouse.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_video.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_mutex.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_quit.h \
+  /usr/local/pspdev/psp/include/SDL/SDL_version.h psp_mouse_sdl.h
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdlib:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/c++config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/os_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/psp/bits/cpu_defines.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstddef:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/newlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/config.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/ieeefp.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stddef.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/reent.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/_ansi.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/_default_types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/lock.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/stdlib.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/alloca.h:
+
+/usr/local/pspdev/psp/sdk/include/pspctrl.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstdio:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/include/stdarg.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/machine/types.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/features.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/stdio.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cstring:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/string.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/sys/string.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/cmath:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/cpp_type_traits.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/ext/type_traits.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/math.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/c++/4.3.2/bits/cmath.tcc:
+
+/usr/local/pspdev/psp/include/SDL/SDL.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_main.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_types.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_getenv.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_error.h:
+
+/usr/local/pspdev/psp/include/SDL/begin_code.h:
+
+/usr/local/pspdev/psp/include/SDL/close_code.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_rwops.h:
+
+/usr/local/pspdev/lib/gcc/psp/4.3.2/../../../../psp/include/stdio.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_timer.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_audio.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_byteorder.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_cdrom.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_joystick.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_events.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_active.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_keyboard.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_keysym.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_mouse.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_video.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_mutex.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_quit.h:
+
+/usr/local/pspdev/psp/include/SDL/SDL_version.h:
+
+psp_mouse_sdl.h:
